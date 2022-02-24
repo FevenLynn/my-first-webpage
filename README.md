@@ -7,7 +7,7 @@ This are some of the people or things I enjoy. They are part of my daily life an
 * Making friends is not so hard but to make them family, you will have to connect deeper
 * You can find recipes for my favorite food online
 ## Known Bugs
-Well, I am still a student of life, and learning web-development, so it will joining the list soon
+Well, I am still a student of life, and learning web-development, so it web-development will be joining the list soon
 ## Technologies Used
 A little help from my parents, Moringa School, my laptop, code editors, Git, Github
 ## Support and contact details
